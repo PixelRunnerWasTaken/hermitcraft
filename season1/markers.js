@@ -18,6 +18,10 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world" : [
 				{"pos" : [0, 0, 64], "title" : "Spawn", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [624, -535, 64], "title" : "Xisuma's Starter Base", "icon" : "xisuma.png" : [24, 24]}
+				{"pos" : [5683, -3216, 64], "title" : "Avalon (Xisuma)", "icon" : "xisuma.png" : [24, 24]}
+				{"pos" : [651, -490, 64], "title" : "Keralis' starter base", "icon" : "keralis.png" : [24, 24]}
+				{"pos" : [1326, -631, 64], "title" : "Keralis", "icon" : "keralis.png" : [24, 24]}
 			],
 		},
 	},
